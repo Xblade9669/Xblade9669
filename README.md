@@ -1,4 +1,4 @@
-- 👋 Hi, I’m shubh
+- 👋 Hi, I’m @Xblade9669 
 - 👀 I’m interested in coding and AI ML
 - 🌱 I’m currently learning C++ and have completed learning C
 - 💞️ I’m looking to collaborate on AI ML andDSA related projects
