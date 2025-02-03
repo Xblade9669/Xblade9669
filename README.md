@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on AI ML projects 
   
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I have been learning AI since 9th grade, and if I'm not solving mathematical equations or generating models, you will probably find me playing chess or making a painting.
+- ⚡ Fun fact: I have been learning AI since 9th grade, and if I'm not solving mathematical equations or generating models, you will probably find me playing chess ♚ or making a painting.
 
 <!---
 Xblade9669/Xblade9669 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
