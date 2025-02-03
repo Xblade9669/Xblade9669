@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Xblade9669 
 - 👀 I’m interested in programming and developing AI/ML models
-- 🌱 I’m currently learning AIML and have completed learning C ,C++ and OOPS 
+- 🌱 I’m currently deep diving into the world of AI/ML and DL.
 - 💞️ I’m looking to collaborate on AI ML projects
   
 - 😄 Pronouns: ...
