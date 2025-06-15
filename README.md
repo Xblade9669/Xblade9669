@@ -1,9 +1,7 @@
 - 👋 Hi, I’m Shubh
 - 👀 I’m interested in programming and developing AI/ML models
 - 🌱 I’m currently deep diving into the world of AI/ML.
-- 💞️ I’m looking to collaborate on AI ML projects 
-  
-- 😄 Pronouns: ...
+- 💞️ I’m looking to collaborate on AI ML projects
 - ⚡ Fun fact: I have been learning AI since 9th grade, and if I'm not solving mathematical equations or generating models, you will probably find me playing chess ♚ or making a painting.
 
 <!---
